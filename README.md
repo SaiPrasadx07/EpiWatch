@@ -163,10 +163,5 @@ POST /api/prediction/forecast
 
 ---
 
-## 📝 License
 
-MIT License
-
----
-
-*Built with ❤️ for CodeCure 2026 — IIT BHU*
+*Built with sincerity for CodeCure 2026 — IIT BHU*
