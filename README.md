@@ -70,6 +70,7 @@ R = avg((C_t - C_{t-1}) / C_{t-1}) × 100  for last 7 days
 - 🟠 MODERATE — Growth rate > 2%
 - 🟢 LOW RISK — Growth rate ≤ 2%
 
+ Risk levels (Low / Medium / High) are dynamically calculated and visualized as a textual risk map representation for each country.
 ---
 
 ## 🚀 Quick Start
